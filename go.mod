@@ -1,4 +1,4 @@
-module github.com/ipfs/go-cid
+module github.com/livehl/go-cid
 
 require (
 	github.com/multiformats/go-multibase v0.0.3
